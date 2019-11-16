@@ -1,0 +1,11 @@
+{
+  "name": "stonks",
+  "version": "1.0.0",
+  "description": "Website with info for the Stonks spigot plugin",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TychoVI, Tsarcasm",
+  "license": "ISC"
+}
